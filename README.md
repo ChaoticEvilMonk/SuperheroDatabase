@@ -1,2 +1,0 @@
-# SuperheroDatabase
-Everything about Superheroes
